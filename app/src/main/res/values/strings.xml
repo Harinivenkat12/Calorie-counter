@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="calCounterTitleId">Calories Counter</string>
+    <string name="food_name">What did you eat?</string>
+    <string name="calories">Calories</string>
+    <string name="submit_button">Submit</string>
+    <string name="total_food_items">Food Items : </string>
+    <string name="total_calories">Total Calories :  </string>
+    <string name="title_activity_food_details_activity">food_details_activity</string>
+    <string name="dets_calories">Calories </string>
+    <string name="dets_dateConsumed">Consumed on : </string>
+    <string name="dets_share_btn">Share</string>
+    <string name="title_activity_display_wishes_activity">display_wishes_activity</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="title_activity_food_item_detail">FoodItemDetailActivity</string>
+</resources>
+
